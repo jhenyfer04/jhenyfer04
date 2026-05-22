@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header&text=Jhenyfer%20Cibelly&fontSize=40&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=140&section=header&text=Jhenyfer%20Cibelly&fontSize=40&fontColor=fff"/>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 🎮 Criadora de jogos  
 🎨 Pixel Artist  
 🇯🇵 Estudando japonês  
-🌙 Apaixonada por tecnologia e animação  
+🌙 Apaixonada por tecnologia, Pokémon e animação  
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Jhenyfer;Criando+jogos+e+sonhos;Aprendendo+desenvolvimento+web;Pixel+Art+%2B+Pokémon+%2B+Anime)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=30&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Jhenyfer;Criando+jogos+e+sonhos;Aprendendo+desenvolvimento+web;Pixel+Art+%2B+Pokémon+%2B+Anime)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,7 +32,7 @@
 Nome: Jhenyfer Cibelly
 Curso: DSM
 Foco: Desenvolvimento Web + Jogos
-Hobbies: Pixel Art, Anime, Pokémon
+Hobbies: Pixel Art, Anime e Pokémon
 Objetivo: Trabalhar com tecnologia e games
 ```
 
@@ -83,20 +83,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg
 
 ---
 
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=radical"/>
-
-</div>
-
----
-
 # 🎮 Pixel Art & Pokémon
 
 <div align="center">
@@ -112,7 +98,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&l
 <div align="center">
 
 <a href="https://github.com/SEUUSUARIO">
-<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -123,7 +109,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&l
 
 <img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="240px">
 
-### ✨ Obrigada por visitar meu perfil ✨
+### 💜 Obrigada por visitar meu perfil 💜
 
 🌸 Volte sempre 🌸
 
@@ -131,8 +117,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&l
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 
 <picture align="center">
