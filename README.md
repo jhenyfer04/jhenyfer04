@@ -92,7 +92,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg
 </div>
 
 ---
-
+[
 # 🌸 Contato
 
 <div align="center">
@@ -102,6 +102,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg
 </a>
 
 </div>
+](https://tenor.com/pt-BR/view/deidara-gif-21496791)
+<div class="tenor-gif-embed" data-postid="21496791" data-share-method="host" data-aspect-ratio="1.65803" data-width="100%"><a href="https://tenor.com/view/deidara-gif-21496791">Deidara GIF</a>from <a href="https://tenor.com/search/deidara-gifs">Deidara GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
